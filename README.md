@@ -1,18 +1,157 @@
-<h1 align="center">Hi 👋, I'm FyzzModss</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fyzzmodss&label=Profile%20views&color=0e75b6&style=flat" alt="fyzzmodss" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Halo%2C+saya+FyzzModss+%F0%9F%91%8B;Backend+%26+Automation+Developer;Node.js+%7C+REST+API+%7C+WhatsApp+Bot;Building+tools+for+the+ID+dev+community" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/fyzzx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fyzzx7" height="30" width="40" /></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0B&height=180&section=header&text=FyzzModss&fontSize=60&fontColor=F59E0B&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FyzzModss&label=Profile%20Views&color=F59E0B&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/FyzzModss?label=Followers&style=for-the-badge&color=0A0A0B&labelColor=F59E0B" alt="followers" />
+  <img src="https://count.getloli.com/@FyzzModss?name=FyzzModss&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Count" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyzzmodss&show_icons=true&locale=en&layout=compact" alt="fyzzmodss" /></p>
+### 🧭 Tentang Saya
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fyzzmodss&show_icons=true&locale=en" alt="fyzzmodss" /></p>
+```js
+const FyzzModss = {
+  location: "🇮🇩 Indonesia",
+  role: "Backend & Automation Developer",
+  focus: ["REST APIs", "Browser Automation", "WhatsApp Bot Ecosystem", "Node.js Backend"],
+  community: "Indonesian WhatsApp Bot Developer Community",
+  philosophy: "minimal dependencies, no build step kalau bisa dihindari",
+  currentlyExploring: ["Ollama local LLM", "WASM tooling", "Reverse engineering"],
+};
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fyzzmodss&" alt="fyzzmodss" /></p>
+- 🛠️ Fokus di **REST API**, **automation (browser & CapCut)**, dan **integrasi WhatsApp Bot**
+- 🌐 Aktif di ekosistem **Baileys** — dari auth-state package sampai API platform untuk komunitas
+- ⚙️ Deploy lintas **VPS**, **Hugging Face Spaces**, dan **Railway**
+- 📱 Ngoding juga langsung dari **Termux (Android)**, bukan cuma dari PC
+- 🧩 Suka ngulik: reverse engineering, WASM, dan automation tooling
+
+---
+
+### 🚀 Proyek Unggulan
+
+<table>
+<tr>
+<td valign="top">
+
+**🔐 baileys-auth**
+External auth-state package buat Baileys (WhatsApp lib). Support multi backend — file, sql.js, better-sqlite3 — plus penanganan khusus buat Termux yang sering gagal install native module.
+- Repo: https://github.com/FyzzModss/miracle
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
+
+**🎬 JJ CapCut Automation**
+Sistem otomasi CapCut lewat Puppeteer/CDP. Next.js + Express custom server, lengkap dengan anti-scrape hardening, rate limiting, dan SEO (OG/Twitter Card/JSON-LD).
+- Web: https://cc.fgsi.dpdns.org
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
+
+**📡 FGSI RestAPIs**
+Platform REST API untuk komunitas developer bot Indonesia, dengan design system dark + amber, panel IP whitelist, changelog system, dan screenshot service.
+- Web: https://fgsi.dpdns.org
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
+
+**🎨 Presetku (ampreset)**
+Platform cloud buat sharing preset Alight Motion, full-stack dengan Google OAuth, Express + Next.js.
+
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
+
+**🖥️ VPS Management Panel**
+Panel manajemen VPS self-hosted (vanilla HTML + Express, no build step), lengkap terminal WebSocket via node-pty dan SSH relay/port-forwarding.
+
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td valign="top">
+
+**🔓 Safelink Bypass Tools**
+Web scraping & bypass system untuk layanan ad-gate/shortlink Indonesia, dibangun dengan axios, tough-cookie, dan cheerio.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Radar
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,nextjs,react,tailwind,docker,linux,bash,git,github,vscode,androidstudio&theme=dark&perline=8" />
+</p>
+
+<div align="center">
+
+| Kategori | Tools |
+|---|---|
+| **Runtime & Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Automation** | ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![CDP](https://img.shields.io/badge/Chrome%20DevTools%20Protocol-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **Bot Ecosystem** | ![WhatsApp](https://img.shields.io/badge/Baileys%20%2F%20WA%20Web-25D366?style=flat-square&logo=whatsapp&logoColor=white) |
+| **Data & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  ![JSON](https://img.shields.io/badge/JSON-yellow?style=flat-square&logo=json&logoColor=white) |
+| **Deployment** | ![HuggingFace](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Daily Driver** | ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=android&logoColor=green) ![Linux](https://img.shields.io/badge/Linux%20VPS-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FyzzModss&show_icons=true&theme=dark&bg_color=0A0A0B&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff&border_color=F59E0B&hide_border=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FyzzModss&theme=dark&background=0A0A0B&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&border=F59E0B&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FyzzModss&layout=compact&theme=dark&bg_color=0A0A0B&title_color=F59E0B&text_color=ffffff&border_color=F59E0B&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FyzzModss&theme=react-dark&bg_color=0A0A0B&color=F59E0B&line=F59E0B&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/FyzzModss"><img src="https://img.shields.io/badge/GitHub-0A0A0B?style=for-the-badge&logo=github&logoColor=F59E0B" /></a>
+  <a href="https://chat.whatsapp.com/HtjtoqvjAALIQGKMupdN8K"><img src="https://img.shields.io/badge/WhatsApp Group-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029Vb89lmKI1rcaBBwxOS37"><img src="https://img.shields.io/badge/WhatsApp Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0B&height=100&section=footer" />
+</div>
