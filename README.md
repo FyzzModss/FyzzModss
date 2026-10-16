@@ -53,21 +53,9 @@ External auth-state package buat Baileys (WhatsApp lib). Support multi backend �
 <tr>
 <td valign="top">
 
-**🎬 JJ CapCut Automation**
-Sistem otomasi CapCut lewat Puppeteer/CDP. Next.js + Express custom server, lengkap dengan anti-scrape hardening, rate limiting, dan SEO (OG/Twitter Card/JSON-LD).
-- Web: https://cc.fgsi.dpdns.org
-</td>
-</tr>
-<tr>
-</tr>
-</table>
-<table>
-<tr>
-<td valign="top">
-
 **📡 FGSI RestAPIs**
 Platform REST API untuk komunitas developer bot Indonesia, dengan design system dark + amber, panel IP whitelist, changelog system, dan screenshot service.
-- Web: https://fgsi.dpdns.org
+- Web: https://xzapi.web.id
 </td>
 </tr>
 </table>
